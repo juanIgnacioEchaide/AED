@@ -20,4 +20,4 @@ Se solicita un algoritmo que tomando dos valores pertenecientes al conjunto num√
 <strong>5</strong> FIN
 
 ### Diagrama Nassi-Schneiderman de la soluci√≥n:
-![nassi schneiderman](https://user-images.githubusercontent.com/43832189/56675303-2a277c80-6692-11e9-99a5-43f1a159ddfc.jpg)
+![nassi schneiderman](https://user-images.githubusercontent.com/43832189/56734373-0408e780-6739-11e9-872d-fe5fa3ddf027.jpg)
