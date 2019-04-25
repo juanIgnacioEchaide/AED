@@ -4,7 +4,7 @@ K1051 <br>
 169040-1 <br>
 Juan Ignacio Echaide	
 
-# Trabajo Práctico Nº1 "Adición"
+## Trabajo Práctico Nº1 "Adición"
 
 ## a. Dominio del problema
 ### Planteo:
