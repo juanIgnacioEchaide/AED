@@ -1,3 +1,9 @@
+AED
+K1051
+2019
+169040-1
+Juan Ignacio Echaide	
+
 # Trabajo Práctico Nº1 "Adición"
 
 ## a. Dominio del problema
