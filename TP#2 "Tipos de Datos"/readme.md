@@ -4,13 +4,13 @@ K1051 <br>
 169040-1 <br>
 Juan Ignacio Echaide	
 
-## Trabajo Práctico Nº1 "Adición"
+## Trabajo Práctico Nº2 "Tipos de Datos"
 
 ## <strong>a</strong>. Dominio del problema
 ### Planteo:
 Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos vistos en clases.
 
-##Refinamiento:
+## Refinamiento:
 Corresponde aclarar para una mejor solución del problema planteado se propone la realización de dos operaciones de adición en simultáneo, y la presentación de sus respectivos resultados en pantalla.
 La primer operación "Suma 1" operará con dos variables numéricas de tipo double, que para una mejor exposición del tipo de dato tiene un valor con "punto flotante". 
 Por otra parte, la operación "Suma 2" involucrará la adición de dos variables, una de tipo entero con valor 1 y otra de tipo "char" o caracter, que es susceptible de ser operada como entero. 
