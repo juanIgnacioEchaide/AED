@@ -16,7 +16,7 @@ El planteo en cuestión ofrece ofrece dos dificultades en relación a la magnitu
 <i>Representación del valor fraccionario 5/9 incluido en la función<i>
 
 
-<i>Finitud de las representaciones posibles en tipo de dato double<i> 
+<i>Finitud de las representaciones posibles en tipo de dato double</i> 
 En el planteo matemático encuadrado en el conjunto de los números reales de tipo infinito la función de conversión de farenheit a celsios puede brindar infinitos valores, propio de la infinitud del conjunto numérico de los reales. No obstante, la representación de los números reales mediante el tipo de dato double -que elegiremos para la solución- es de tipo finita, y sujeta a los límites físicos propios de procesamiento de la arquitectura de todo computador, pese a ocupar solo 4 bytes de memoria para ser almacenado.  
   
   
