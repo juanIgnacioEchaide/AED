@@ -29,7 +29,7 @@ Juan Ignacio Echaide
 ## <strong>b</strong>. Dominio de la solución
 ### La solución adoptada es la siguiente:
 
-<strong>1</strong>  Se lee un valor en farenheit (<cursive>f</cursive>) </br>
+<strong>1</strong>  Se lee un valor en farenheit (<i>f</i>) </br>
 <strong>2</strong>  Se convierte dicho valor convertido en grados celsios </br>
 <strong>3</strong> Se elige qué valor de los posibles obtenidos por la función se debe retornar </br>
 <strong>4</strong>FIN
