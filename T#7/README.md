@@ -39,5 +39,6 @@ Para solucionar esto he optado por incluir de la biblioteca <iomanip> el método
 
 ### Diagrama Nassi-Schneiderman de la solución:
 
+![img2](https://user-images.githubusercontent.com/43832189/57883599-18eb0f00-77fd-11e9-9c3a-d0d608b6430b.png)
 
 
