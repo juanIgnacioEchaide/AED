@@ -15,10 +15,13 @@ Juan Ignacio Echaide
 
 <strong>a</strong> <i>Representación del valor fraccionario 5/9 incluido en la función </i>
 
+  
+<P ALIGN="justify"> El primer paso es la conversión de los valores fraccionarios 5/9 y 3/2 a su equivalente en un número real, dicho valor real en su fracción decimal es decir: 0.55555556 y 1.5, respectivamente. Dichos valores pueden ser almancenados con relativa facilidad, no obstante en aras de un practicidad de la operatoria bien podrían truncarse. 
+He optado por mantener su valor pese a la extensión intentando conservar la mayor fidelidad posible al resultado de la función.  
+  
+<strong>b</strong> <i>Finitud de las representaciones posibles del resultado </i> 
 
-<strong>b</strong> <i>Finitud de las representaciones posibles en tipo de dato double </i> 
-
-<P ALIGN="justify">En el planteo matemático encuadrado en el conjunto de los números reales de tipo infinito la función de conversión de farenheit a celsios puede brindar infinitos valores, propio de la infinitud del conjunto numérico de los reales. No obstante, la representación de los números reales mediante el tipo de dato double -que elegiremos para la solución- es de tipo finita, y sujeta a los límites físicos propios de procesamiento de la arquitectura de todo computador, pese a ocupar solo 4 bytes de memoria para ser almacenado.  
+<P ALIGN="justify">Los números reales son un conjunto infinito, pero los valores representables mediante el tipo de dato daouble por el contrario, no lo son. Dado las características de la constante a mulitplicar en la función dada -5/9*(x-3/2)-, en su versión en sistema decimal 0.55555556*(f-1.5) se genera la posibilidad de un resultado a devolver por la función con infinitos decimales, en ese la función misma debe prever otra estructura lógica anidada que permita opta entre los valores representables por aquel que resulte más eficiente. 
   
   
 
