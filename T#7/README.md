@@ -17,7 +17,7 @@ Juan Ignacio Echaide
 
   
 <P ALIGN="justify"> El primer paso es la conversión de los valores fraccionarios 5/9 y 3/2 a su equivalente en un número real expresado en sistema decimal, es decir: 0.55555556 y 1.5, respectivamente. Dichos valores pueden ser almancenados con relativa facilidad, no obstante en aras de un practicidad de la operatoria bien podrían truncarse. 
-He optado por mantener su valor pese a la extensión intentando conservar la mayor fidelidad posible al resultado de la función.  
+He optado por mantener su valor hasta 4 decimales -0.5555- intentando conservar la mayor fidelidad posible al resultado de la función pero sin complejizar excesivamente el tratamiento, pese a la propagación de errores causada por el redondeo en los pasos intermedios.  
   
 <strong>b</strong> <i>Finitud de las representaciones posibles del resultado </i> 
 
