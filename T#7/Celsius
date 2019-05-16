@@ -1,1 +1,33 @@
+/* AED
+	K1051
+	2019
+	169040-1
+	Juan Ignacio Echaide	
+	GitHub juanIgnacioEchaide
+	TP#7 Celsius
+*/
 
+#include <iostream>
+#include <iomanip>
+
+
+double Celsius(double);
+
+int main(){
+	
+	double c;
+
+	assert(-0.2160== Celsius(1.1111111));
+	assert(3.4873==Celsius(7.777777));
+	assert(-0.8332==Celsius(0.000001));
+	assert(-2.1172==Celsius(-7.777777));
+	assert(-5.1538== Celsius(-1.1111111));
+
+
+double Celsius(double f){ 
+	return  setprecision(4) << fixed << (0.5555*(c-1.5)); 
+}	
+
+}
+
+El código presenta errores de compilación, no pude obtener el txt. 
