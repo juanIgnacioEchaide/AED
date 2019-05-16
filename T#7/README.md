@@ -8,17 +8,17 @@ Juan Ignacio Echaide
 
 ## <strong>a</strong>. Dominio del problema
 ### Planteo:
-Se solicita un algoritmo que tomando un valor de tipo punto flotante -que corresponde indentificar con valores del conjunto de los números reales- aplique una función previamente dada -Celsius(f)=5/9*(f-3/2)- y permita convertir una magnitud de temperatura en sistema farenheit a las magnitudes en grados celsios.
+<P ALIGN="justify">Se solicita un algoritmo que tomando un valor de tipo punto flotante -que corresponde indentificar con valores del conjunto de los números reales- aplique una función previamente dada -Celsius(f)=5/9*(f-3/2)- y permita convertir una magnitud de temperatura en sistema farenheit a las magnitudes en grados celsios.
 
 ### Refinamiento problema:
-El planteo en cuestión ofrece ofrece dos dificultades en relación a la magnitud que la función debe retornar
+<P ALIGN="justify">El planteo en cuestión ofrece ofrece dos dificultades en relación a la magnitud que la función debe retornar
 
 <i>Representación del valor fraccionario 5/9 incluido en la función </i>
 
 
 <i>Finitud de las representaciones posibles en tipo de dato double </i> 
 
-En el planteo matemático encuadrado en el conjunto de los números reales de tipo infinito la función de conversión de farenheit a celsios puede brindar infinitos valores, propio de la infinitud del conjunto numérico de los reales. No obstante, la representación de los números reales mediante el tipo de dato double -que elegiremos para la solución- es de tipo finita, y sujeta a los límites físicos propios de procesamiento de la arquitectura de todo computador, pese a ocupar solo 4 bytes de memoria para ser almacenado.  
+<P ALIGN="justify">En el planteo matemático encuadrado en el conjunto de los números reales de tipo infinito la función de conversión de farenheit a celsios puede brindar infinitos valores, propio de la infinitud del conjunto numérico de los reales. No obstante, la representación de los números reales mediante el tipo de dato double -que elegiremos para la solución- es de tipo finita, y sujeta a los límites físicos propios de procesamiento de la arquitectura de todo computador, pese a ocupar solo 4 bytes de memoria para ser almacenado.  
   
   
 
