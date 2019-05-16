@@ -16,7 +16,7 @@ Juan Ignacio Echaide
 <strong>a</strong> <i>Representación del valor fraccionario 5/9 incluido en la función </i>
 
   
-<P ALIGN="justify"> El primer paso es la conversión de los valores fraccionarios 5/9 y 3/2 a su equivalente en un número real, dicho valor real en su fracción decimal es decir: 0.55555556 y 1.5, respectivamente. Dichos valores pueden ser almancenados con relativa facilidad, no obstante en aras de un practicidad de la operatoria bien podrían truncarse. 
+<P ALIGN="justify"> El primer paso es la conversión de los valores fraccionarios 5/9 y 3/2 a su equivalente en un número real expresado en sistema decimal, es decir: 0.55555556 y 1.5, respectivamente. Dichos valores pueden ser almancenados con relativa facilidad, no obstante en aras de un practicidad de la operatoria bien podrían truncarse. 
 He optado por mantener su valor pese a la extensión intentando conservar la mayor fidelidad posible al resultado de la función.  
   
 <strong>b</strong> <i>Finitud de las representaciones posibles del resultado </i> 
