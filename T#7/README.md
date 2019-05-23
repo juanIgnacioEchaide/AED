@@ -11,8 +11,11 @@ Juan Ignacio Echaide
 <P ALIGN="justify">Se solicita un algoritmo que tomando un valor de temperatura expresado en grados Farenheit, valga decir un valor del conjunto de los números reale, aplique una función previamente dada -Celsius(f)=5/9*(f-3/2)- y permita convertir una magnitud de temperatura en magnitud Celsius.
 
 ### Refinamiento problema:
-<strong>b</strong> <i>Finitud de las representaciones posibles del resultado  mediante eltipo de dato </i> 
- de tipo punto flotante -que corresponde indentificar con
+
+<strong>a</strong> <i>Finitud de las representaciones posibles del resultado  mediante los tipos de datos disponibles</i>
+
+ Los valores de temperatura ingresados como Farenheit, que el algoritmo convierte a Celsius, se corresponden con valores numéricos del conjunto de los reales. Este conjunto es infinito potencialmente, por oposición a la finitud de representaciones posibles propia de los limites de arquitectura física de todo computador. 
+ He elegido representar estos valores mediante el tipo de dato punto flotante doble precisión, pese a que su mayor densidad se da en el entorno de 0, y no resulta útil para mediciones de máxima precisión como ser valores de cotización financieros fluctuantes. Ello, debido a que por convención la temperatura suele medirse en un máximo de dos decimales, siendo tolerable el redonde como práctica habitual. Sumado a la universalidad de la convención IEE754 para representar valores mediante precisión doble en 8bytes -<i>double</i>- que facilita el empleo de un código reutilizable -prinicpalmente declaración y definición de la función- en otros lenguajes, brindando mayor eficiencia.  
   
   
 
