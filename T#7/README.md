@@ -8,11 +8,11 @@ Juan Ignacio Echaide
 
 ## <strong>a</strong>. Dominio del problema
 ### Planteo:
-<P ALIGN="justify">Se solicita un algoritmo que tomando un valor de tipo punto flotante -que corresponde indentificar con valores del conjunto de los números reales- aplique una función previamente dada -Celsius(f)=5/9*(f-3/2)- y permita convertir una magnitud de temperatura en sistema farenheit a las magnitudes en grados celsios.
+<P ALIGN="justify">Se solicita un algoritmo que tomando un valor de temperatura expresado en grados Farenheit, valga decir un valor del conjunto de los números reale, aplique una función previamente dada -Celsius(f)=5/9*(f-3/2)- y permita convertir una magnitud de temperatura en magnitud Celsius.
 
 ### Refinamiento problema:
 <strong>b</strong> <i>Finitud de las representaciones posibles del resultado  mediante eltipo de dato </i> 
-
+ de tipo punto flotante -que corresponde indentificar con
   
   
 
