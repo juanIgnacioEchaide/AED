@@ -23,6 +23,7 @@ Se implementa la solución mediante una función que arroja un valor real median
 
 ### Diagrama IPO
 
+![diagrama IPO8](https://user-images.githubusercontent.com/43832189/59047881-22dfbb00-885b-11e9-8281-22abb4929842.jpg)
 
 
 ### La solución adoptada es la siguiente:
@@ -31,7 +32,6 @@ Se implementa la solución mediante una función que arroja un valor real median
 <strong>2</strong>  Se pondera si está dentro del intervalo {-3;3} </br>
 <strong>3</strong> arroja <i>x</i> ò <i>-x</i> según el caso</br>
 <strong>4</strong>FIN
-
 
 
 ### Diagrama Nassi-Schneiderman de la solución:
