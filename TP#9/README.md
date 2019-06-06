@@ -36,4 +36,5 @@ Juan Ignacio Echaide
 <strong>4</strong> arroja <i>V</i> ò <i>F</i> según sea bisiesto o no el año</br>
 <strong>5</strong>FIN
 
-
+#### Diagrama Nassi-Schneidermann de la solución
+![NS 9](https://user-images.githubusercontent.com/43832189/59051619-b321fe00-8863-11e9-9679-b41640ebf0c9.jpg)
