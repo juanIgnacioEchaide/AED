@@ -31,8 +31,9 @@ Juan Ignacio Echaide
 ### La solución adoptada es la siguiente:
 
 <strong>1</strong>  Se toma un valor entero(<i>y</i>) </br>
-<strong>2</strong>  Se pondera si está dentro del intervalo {-3;3} </br>
-<strong>3</strong> arroja <i>x</i> ò <i>-x</i> según el caso</br>
-<strong>4</strong>FIN
+<strong>2</strong>  Se evalua si es divisible por 4</br>
+<strong>3</strong> Se evalua si no es divisible por 100 y si lo es por 400</br>
+<strong>4</strong> arroja <i>V</i> ò <i>F</i> según sea bisiesto o no el año</br>
+<strong>5</strong>FIN
 
 
