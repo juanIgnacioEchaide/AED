@@ -25,7 +25,7 @@ Juan Ignacio Echaide
 <P ALIGN="justify">Por tanto, la función booleana IsBisiesto() arrojara valor verdadero (<i>true</i>) si se cumple que el valor del año sea congruente 0 (mod 4) o, si es incongruente 0 (mod 100) y congruente 0 (mod 400). En otro caso, arrojará valor <i>false</i>. A tal fin se disponen las aserciones verdaderas y falsas con años posteriores a   , que se sabe son bisiestos y no bisiestos, respectivamente.
 
 ### Diagrama IPO
-
+![diagrama IPO](https://user-images.githubusercontent.com/43832189/59051034-5540e680-8862-11e9-9a24-2b5aed743736.jpg)
 
 
 ### La solución adoptada es la siguiente:
