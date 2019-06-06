@@ -21,12 +21,18 @@ Se implementa la solución mediante una función que arroja un valor real median
 
 <P ALIGN="justify">Respecto de las aserciones he tomado valores que se encuentran antes del punto crítico negativo del intervalo (-inf;-3), dentro del intervalo (-3;3), 0 que constituye la única raíz de la función en el caso, y luego del punto crítico positivo (3; +inf).
 
+### Diagrama IPO
+
+
+
 ### La solución adoptada es la siguiente:
 
-<strong>1</strong>  Se lee un valor en farenheit (<i>f</i>) </br>
-<strong>2</strong>  Se convierte dicho valor convertido en grados celsios mediante la función</br>
-<strong>3</strong> Se devuelve un valor como valor double</br>
+<strong>1</strong>  Se toma un valor real(<i>x</i>) </br>
+<strong>2</strong>  Se pondera si está dentro del intervalo {-3;3} </br>
+<strong>3</strong> arroja <i>x</i> ò <i>-x</i> según el caso</br>
 <strong>4</strong>FIN
+
+
 
 ### Diagrama Nassi-Schneiderman de la solución:
 
