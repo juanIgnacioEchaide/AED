@@ -35,5 +35,5 @@ Se implementa la solución mediante una función que arroja un valor real median
 
 
 ### Diagrama Nassi-Schneiderman de la solución:
-
+![NS 8](https://user-images.githubusercontent.com/43832189/59049176-ce8a0a80-885d-11e9-8578-8935202a09cb.jpg)
            
