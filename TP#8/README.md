@@ -22,7 +22,6 @@ Se implementa la solución mediante una función que arroja un valor real median
 <P ALIGN="justify">Respecto de las aserciones he tomado valores que se encuentran antes del punto crítico negativo del intervalo (-inf;-3), dentro del intervalo (-3;3), 0 que constituye la única raíz de la función en el caso, y luego del punto crítico positivo (3; +inf).
 
 ### Diagrama IPO
-
 ![diagrama IPO8](https://user-images.githubusercontent.com/43832189/59047881-22dfbb00-885b-11e9-8281-22abb4929842.jpg)
 
 
