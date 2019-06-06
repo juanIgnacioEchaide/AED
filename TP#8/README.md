@@ -1,3 +1,11 @@
+AED <br>
+K1051 <br>
+2019 <br>
+169040-1 <br>
+Juan Ignacio Echaide	
+
+## Trabajo Práctico Nº8 "Operadores condicionales"
+
 ## <strong>a</strong>. Dominio del problema
 
 <P ALIGN="justify">Se solicita un algoritmo que permita implementar una función partida -<i>piecewise</i>- dentro del dominio de los números reales,de modo que se obtengan dos funciones lineales. Una de ellas la denominada función identidad (<i>x</i>) en el caso de que el parámetro o variable ingresado a la función este fuera del intervalo {-3;3} con una pendiente positiva (<i>inclinada</i> hacia la izquierda), y otra que arroje la identidad con pendiente negativa (<i>-x</i>) si el valor numérico ingresado como parámetro se encuentra comprendido en el mismo (con la inclinación hacia la derecha).
@@ -5,6 +13,7 @@
 
 ## <strong>b</strong>. Dominio de la solución
 
+Se implementa la solución mediante una función que arroja un valor real mediante un tipo de dato <i>double</i>, ponderando la condición de que se halle el valor ingresado comprendido o no en el intervalo {-3;3} mediante un operador ternario que en caso de cumplirse esta premisa arroja la función identidad con pendiente positiva, y en todo otro caso la identidad con pendiente negativa.
 
 ## <strong>c</strong>. Refinamiento
 
